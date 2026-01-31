@@ -11,7 +11,7 @@
       actualización del saldo. 
 */
 
-public gitclass Main {
+public class Ejercicio10 {
     public static void main(String[] args) {
         // Simulador de Cajero Automatico
     }
