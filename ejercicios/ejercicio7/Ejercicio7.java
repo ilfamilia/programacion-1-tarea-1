@@ -1,4 +1,4 @@
-/*
+package ejercicios.ejercicio7;/*
     7. Gestor de Contactos: 
 
     * Desarrolla un programa que permita gestionar una lista de contactos. 
