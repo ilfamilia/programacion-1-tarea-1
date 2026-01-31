@@ -10,7 +10,7 @@
     * Requisitos: Comentar las funciones principales del gestor y su uso. 
 */
 
-public class Main {
+public class Ejercicio7 {
     public static void main(String[] args) {
         // Lista de contactos
     }
