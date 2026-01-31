@@ -104,7 +104,7 @@ public class ConversorTemp {
                 return sc.nextInt();
             } else {
                 System.out.print("Entrada inválida. Ingrese un número entero: ");
-                sc.next(); // descartar el token inválido
+                sc.next(); // descartar el token inválido.
             }
         }
     }
