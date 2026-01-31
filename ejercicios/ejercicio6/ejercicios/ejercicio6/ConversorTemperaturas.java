@@ -1,5 +1,6 @@
 // Ejercicio 6: Conversor de Temperaturas
 // Este programa convierte temperaturas entre Celsius, Fahrenheit y Kelvin
+
 import java.util.Scanner;
 
 public class ConversorTemperaturas {
