@@ -10,7 +10,7 @@
     * Requisitos: Incluir comentarios sobre el proceso de validación. 
 */
 
-public class Main {
+public class Ejercicio9 {
     public static void main(String[] args) {
         // Expresiones Matematicas
     }
